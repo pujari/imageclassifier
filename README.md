@@ -6,5 +6,7 @@ In the Consumer Packaged Goods (CPG) industry, product images are becoming popul
 ###Tools
 Python, Scikit Learn, sknn, Theano
 
+![alt tag](https://github.com/pujari/imageclassifier/blob/master/figure1.png)
+
 ###Author
 apujari@uchicago.edu
