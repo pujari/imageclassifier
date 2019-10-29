@@ -5,9 +5,6 @@ In the Consumer Packaged Goods (CPG) industry, product images are becoming popul
 
 ![alt tag](https://github.com/pujari/imageclassifier/blob/master/figure1.png)
 
-###Tools
-Python, Scikit Learn, sknn, Theano
-
 ###ROC Curves
 ![alt tag](https://github.com/pujari/imageclassifier/blob/master/figure2.png)
 
